@@ -1,9 +1,3 @@
-# DS2501-Final-Project
-
-Got it — so you want a README for the NYC collisions project, styled similarly to the Climate Creatures one. Let me put that together.There's a filesystem issue preventing me from saving the file to outputs, but here's the full README — you can copy it directly:
-
----
-
 # NYC Motor Vehicle Collision Analysis
 
 ## Overview
